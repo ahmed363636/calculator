@@ -1,2 +1,2 @@
 # calculator
-my calculator for my project OS i use langage c
+my calculator for my project OS
